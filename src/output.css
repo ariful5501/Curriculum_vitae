@@ -846,6 +846,10 @@ video {
     margin-right: calc(2rem * var(--tw-space-x-reverse));
     margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
   }
+
+  .md\:font-light {
+    font-weight: 300;
+  }
 }
 
 @media (min-width: 1024px) {
